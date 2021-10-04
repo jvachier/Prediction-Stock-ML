@@ -1,6 +1,6 @@
 # Prediction-Stock-ML
 
-Prediction of Stock Prize using Machine/Deep Learning 
+Prediction of Stock Price using Machine/Deep Learning 
 
 Author: jvachier 
 Creation date: September 2021 
