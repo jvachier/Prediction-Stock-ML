@@ -12,3 +12,5 @@ References:
 https://www.tensorflow.org/tutorials/structured_data/time_series 
 https://towardsdatascience.com/time-series-forecasting-with-deep-learning-and-attention-mechanism-2d001fc871fc 
 https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
+(Additionally, I also uploaded this code on Kaggle.)
